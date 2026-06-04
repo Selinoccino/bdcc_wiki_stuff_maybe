@@ -1,4 +1,4 @@
-Made as of Game Version `0.2.5`
+Made as of Game Version `0.2.5`. Written by Lottery ([iiHartMemphisii](https://github.com/iiHartMemphisii)) and MOON_HALO ([moon-halo-xviii](https://github.com/moon-halo-xviii))
 
 There are 2 sections to this tutorial, **Theory** and **Practice**. If you wish to go straight to making animations, skip to **Practice**.
 
