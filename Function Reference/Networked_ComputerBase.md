@@ -1,5 +1,5 @@
 # General Information
-*Last updated for game version 0.2.5*
+*Last updated for game version 0.3.1*
 
 The **ComputerBase** class and its subclasses (**NetworkedCimputerBase**) are used by and ran through the **ComputerSimScene** script, which is itself a [**Scene**](/Your-first-scene.md).
 
